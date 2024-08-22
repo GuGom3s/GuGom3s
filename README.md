@@ -1,4 +1,5 @@
-## Hi there 👋
+Sejam bem-vindo ao meu GitHub
+Meu nome é Gustavo, tenho 17, atualmente estou morando em São Bernardo do Campo, estou cursando o segundo ano do ensino médio, faço curso de inglês, meu nível de inglês é intermediario, pretendo fazer curso de excel, no momento eu faço curso de Desenvolvimento de Sistema.
 
 <!--
 **GuGom3s/GuGom3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
